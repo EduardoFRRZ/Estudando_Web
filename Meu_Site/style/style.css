@@ -51,3 +51,9 @@
 	width: 200px;
 }
 
+.botaoErro{
+	position: absolute;
+	top: 600px;
+	left: 10px;
+}
+
