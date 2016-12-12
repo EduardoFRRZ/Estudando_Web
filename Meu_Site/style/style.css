@@ -1,0 +1,52 @@
+.container{
+	margin-left: 50px;
+}
+
+.erro{
+	background-image: url("http://te.i.uol.com.br/album/erro_404_pagina_nao_encontrada_f_010.jpg");
+	background-repeat: no-repeat;
+  	background-size: 1500px 1000px;
+}
+
+.corTexto{
+	color: red;
+}
+
+
+.universo{
+	position:absolute;
+	top: 200px;
+	left: 10px;
+	background-image: url(https://i.ytimg.com/vi/nEWK8d8n-FM/hqdefault.jpg);
+	border: solid 3px;
+	border-color: red;
+	width: 370px;
+	height: 320px;
+	text-align: justify;
+}
+
+.margem{
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+.mundo{
+	position: absolute;
+	top: 200px;
+	left: 400px;
+	background-image: url(http://www.suacidade.com/sites/default/files/images/mundo.jpg);
+	background-repeat: no-repeat;
+	background-size: 370px 320px;
+	border: solid 3px;
+	border-color: red;
+	width: 370px;
+	height: 320px;
+	text-align: justify;
+}
+
+.cometa{
+	position: absolute;
+	top: 1px;
+	left: 10px;
+	width: 200px;
+}
