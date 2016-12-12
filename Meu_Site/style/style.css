@@ -9,7 +9,7 @@
 }
 
 .corTexto{
-	color: red;
+	color: lightgreen;
 }
 
 
@@ -47,6 +47,7 @@
 .cometa{
 	position: absolute;
 	top: 1px;
-	left: 10px;
+	right: 10px;
 	width: 200px;
 }
+
