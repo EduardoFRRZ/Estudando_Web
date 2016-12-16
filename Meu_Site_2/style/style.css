@@ -1,0 +1,18 @@
+.corFundo{
+	background: white;
+}
+
+.corFundoTabela{
+	background: #87CEFA;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.tabelaCentro{
+	position:absolute;
+	top: 20px;
+	left: 17px;
+}
