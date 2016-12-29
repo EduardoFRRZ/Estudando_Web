@@ -7,13 +7,17 @@
 	</head>
 	<body background="img/fundo_cinza_claro.jpg">
 		<div class="divInput" align="center">
-			<form class="formInput" method="get">
-				Email:<br>
-				<input class="inputStyle" type="email" id="email"><br>
-				Senha:<br>
-				<input class="inputStyle" type="password" id="password"><br><br>
-				<input class="inputStyle" type="submit" id="submit">
+			<form class="formInput" method="get" action="php/indexphp.php">
+				<label>Email</label><br>
+				<input class="inputStyle" type="email" name="email"><br>
+				<label>Senha</label><br>
+				<input class="inputStyle" type="password" name="senha"><br>
+				<input class="inputStyle" type="submit" value="ENVIAR">
+				<br><a class="form_2" href="form_2.html">Novo formulário</a>
 			</form>
+		</div>
+		<div>
+			<h1><a href="cores.html">BRINCAR COM CORES</a></h1>
 		</div>
 	</body>
 </html>

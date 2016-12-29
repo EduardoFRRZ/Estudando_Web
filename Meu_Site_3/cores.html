@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>CORES</title>
+</head>
+<body>
+	<div>
+		<form method="get" action="php/coresphp.php">
+			<label for="itxt">Texto: </label>
+			<input type="text" name="texto" id="itxt"><br>
+			<label for="itam">Tamanho: </label>
+			<select name="tam" id="itam">
+				<option value="8pt" selected>8</option>
+				<option value="10pt">10</option>
+				<option value="14pt">14</option>
+			</select><br>
+			<label for="icor">Cor</label>
+			<input type="color" name="cor" id="icor"><br>
+			<input type="submit" value="Gerar">
+		</form>
+	</div>
+</body>
+</html>
