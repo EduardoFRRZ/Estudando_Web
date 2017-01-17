@@ -1,8 +1,0 @@
-height 20px; -> Altura
-width 20px; -> Largura
-
-                    
-position:absolute;  |
-top: 20px;          | -> Posicionamento
-left/right: 20px;   |
-                    
